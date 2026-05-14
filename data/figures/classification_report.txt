@@ -1,0 +1,11 @@
+Лучшая модель: Logistic Regression
+
+              precision    recall  f1-score   support
+
+     at_risk      0.954     0.960     0.957       150
+     healthy      0.994     0.991     0.993       540
+        sick      0.951     0.967     0.959        60
+
+    accuracy                          0.983       750
+   macro avg      0.966     0.972     0.969       750
+weighted avg      0.983     0.983     0.983       750
